@@ -3,7 +3,7 @@
 ## EYES EXERCISE
 
 # Description of project
-This project consist in two eyes that follow the position of the mouse.
+This project consist in a face that makes emotions and follows the position of the mouse. In this first version only the eyes are implemented, you'll see the eyeballs follows the position of the mouse.
 
 # How to run
 You only need to clone the repository and run the Index.html code on any web browser.
