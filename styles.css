@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #14495e;
+  background: #FFDBAC;
 }
 
 .eyes {
@@ -44,7 +44,7 @@ body {
 .lefteyebrow {
   width: 200px;
   height: 40px;
-  background: #000;
+  background: #8D5524;
   display: inline-block;
   margin: 40px;
   position: relative;
@@ -55,7 +55,7 @@ body {
 .righteyebrow {
   width: 200px;
   height: 40px;
-  background: #000;
+  background: #8D5524;
   display: inline-block;
   margin: 40px;
   position: relative;
